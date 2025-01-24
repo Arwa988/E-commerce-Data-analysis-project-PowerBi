@@ -19,6 +19,12 @@ A detailed report about the company by analyzing the product sales , customer bu
 - Standard class is the highest ship mode the customers travel by.
 - There is a relation between customer activity and average days of delivery , as the average days of delivery increase the customer activity decrease.
 ## Location analysis:
+- West is the highest  sales region.
 - Technology is sold most in the east region
 - Furniture and office supplies are sold most in the west region
+## Recommendation :
+- Provide high quantity of products in quarter 4  as it is the highest sales duration.
+- Provide high quantity  of Technology products  as it is the highest profit and sales category specially phones.
+- Provide high quantity of office  supplies  as it is the highest quantity of products sold.
+- Don't provide a large quantity of supplying , bookcases and tables as they have loss in profit.
 
