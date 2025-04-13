@@ -1,11 +1,5 @@
 # E-commerce data analysis
-A detailed report about the company by analyzing the product sales , customer buying behavior and location sales analysis
-## Dashboard
-![E-commerce-Data-analysis-project-PowerBi](https://github.com/Arwa988/E-commerce-Data-analysis-project-PowerBi/blob/main/WhatsApp%20Image%202025-01-24%20at%2012.17.08%20PM.jpeg)
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>                                    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-![E-commerce-Data-analysis-project-PowerBi](https://github.com/Arwa988/E-commerce-Data-analysis-project-PowerBi/blob/main/WhatsApp%20Image%202025-01-24%20at%2012.17.08%20PM%20(1).jpeg)
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>                                    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-![E-commerce-Data-analysis-project-PowerBi](https://github.com/Arwa988/E-commerce-Data-analysis-project-PowerBi/blob/main/WhatsApp%20Image%202025-01-24%20at%2012.17.08%20PM%20(2).jpeg)
+A detailed report about the company by analyzing the sales, customer behavior, product performance, and location analysis for an e-commerce dataset. The dashboard includes key KPIs, trends, and visual insights to support data-driven decision-making.
 ## Important Insights:
 - Total sales has increased significantly from 2015 to 2018.
 - Standard class is the highest sales ship mode.
@@ -23,8 +17,10 @@ A detailed report about the company by analyzing the product sales , customer bu
 - Technology is sold most in the east region
 - Furniture and office supplies are sold most in the west region
 ## Recommendation :
-- Provide high quantity of products in quarter 4  as it is the highest sales duration.
+- Provide high quantity of products in  Q4  as it is the highest sales duration.
 - Provide high quantity  of Technology products  as it is the highest profit and sales category specially phones.
 - Provide high quantity of office  supplies  as it is the highest quantity of products sold.
 - Don't provide a large quantity of supplying , bookcases and tables as they have loss in profit.
+- Focus marketing efforts during Q4, especially in September and December, using targeted campaigns and promotions to maximize seasonal demand.
+- Invest in customer loyalty programs targeting the Consumer segment, which is the highest-performing in sales, to retain and further increase revenue from this group
 
