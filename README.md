@@ -1,8 +1,7 @@
 # E-commerce data analysis
 A detailed report about the company by analyzing the sales, customer behavior, product performance, and location analysis for an e-commerce dataset. The dashboard includes key KPIs, trends, and visual insights to support data-driven decision-making.
 ## Dashboard
-![Alt text](https://github.com/Arwa988/E-commerce-Data-analysis-project-PowerBi/blob/main/images/Dash1.jpeg)
-![Alt text](https://github.com/Arwa988/E-commerce-Data-analysis-project-PowerBi/blob/main/images/Dash1.jpeg)
+Download PowerBI file to see the project
 
 ## Important Insights:
 - Total sales has increased significantly from 2015 to 2018.
