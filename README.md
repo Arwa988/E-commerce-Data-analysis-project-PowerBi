@@ -1,5 +1,7 @@
 # E-commerce data analysis
 A detailed report about the company by analyzing the sales, customer behavior, product performance, and location analysis for an e-commerce dataset. The dashboard includes key KPIs, trends, and visual insights to support data-driven decision-making.
+## Dashboard
+![Alt text](https://github.com/Arwa988/Road-Accident-analysis-Excel-/blob/main/images/pivot%20tables.png)
 ## Important Insights:
 - Total sales has increased significantly from 2015 to 2018.
 - Standard class is the highest sales ship mode.
